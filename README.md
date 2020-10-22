@@ -4,6 +4,6 @@ The goal of this task is to learn the causal structure among different technolog
 
 In order to do that, we create a function to calculate the direct information.
 
-Please find more information regarding our steps in the report. The resulting causal structure, obtained using
+Please find more information regarding our steps in the report. The resulting causal structure for our Data is the following:
 
 ![alt text](https://github.com/anitamezzetti/causal_structure_stock_prices/blob/master/results.PNG)
