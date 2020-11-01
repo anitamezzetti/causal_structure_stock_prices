@@ -1,6 +1,6 @@
 # causal_structure_stock_market_
 
-The goal of project task is to learn the causal structure among different technology companies by observing their stock price over a period of time.
+The goal of this project is to learn the causal structure among different technology companies by observing their stock price over a period of time.
 
 In order to do that, we create a function to calculate the direct information.
 
